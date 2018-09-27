@@ -1,5 +1,5 @@
 = Git In Practice Redux
-Doc Writer <kevin@gallantsystems.ca>
+Kevin Gallant <kevin@gallantsystems.ca>
 
 Git in Practice sample project written in AsciiDoc.
 
