@@ -1,0 +1,8 @@
+= Git In Practice Redux
+Doc Writer <kevin@gallantsystems.ca>
+
+Git in Practice sample project written in AsciiDoc.
+
+== Section 1
+
+This is my first exposure to AsciiDoc so using this as an opportunity to learn a little about that platform as well. For more information, see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AcciiDoc Quick Reference]/
