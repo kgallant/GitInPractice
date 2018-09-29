@@ -9,3 +9,6 @@ This is my first exposure to AsciiDoc so using this as an opportunity to learn a
 
 === 29-Sep-2018
 Saturday!  Although it's the weekend, not particularly looking forward to it.  Domestic drudgery has been piling up and I'm not going to be able to avoid it much longer, (but one more week until vacation, so I can afford to procrastinate a little).
+
+Working through Chapter 2 of Git in Practice at the moment.  Pretty basic stuff but am learning a thing or two, and having some fuzzy concepts being reinforced, so worthwhile exercise.
+
