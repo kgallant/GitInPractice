@@ -12,6 +12,9 @@ Saturday!  Although it's the weekend, not particularly looking forward to it.  D
 
 Working through Chapter 2 of Git in Practice at the moment.  Pretty basic stuff but am learning a thing or two, and having some fuzzy concepts being reinforced, so worthwhile exercise.
 
+=== 11-Oct-2018
+Vacation!  Finally getting a change to chew through some reading / tutorials and, hopefully,
+re-running all the network cabling in this place and using Shaw's WiFi modem.
 
 == Chapter 2
 
