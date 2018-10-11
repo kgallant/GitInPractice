@@ -1,0 +1,6 @@
+= Git In Practice Redux
+Kevin Gallant <kevin@gallantsystems.ca>
+
+Git in Practice sample project written in AsciiDoc.
+
+
