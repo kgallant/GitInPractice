@@ -1,18 +1,12 @@
-= Git In Practice Redux
-Kevin Gallant <kevin@gallantsystems.ca>
-
-Git in Practice sample project written in AsciiDoc.
-
 == Chapter 1
 
-This is my first exposure to AsciiDoc so using this as an opportunity to learn a little about that platform as well. For more information, see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Quick Reference]
+This is my first exposure to AsciiDoc so using this as an opportunity to learn a little about that platform as well. 
+For more information, see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Quick Reference]
 
 === 29-Sep-2018
-Saturday!  Although it's the weekend, not particularly looking forward to it.  Domestic drudgery has been piling up and I'm not going to be able to avoid it much longer, (but one more week until vacation, so I can afford to procrastinate a little).
+Saturday!  Although it's the weekend, not particularly looking forward to it.  Domestic drudgery has been piling up and 
+I'm not going to be able to avoid it much longer, (but one more week until vacation, so I can afford to procrastinate a little).
 
-Working through Chapter 2 of Git in Practice at the moment.  Pretty basic stuff but am learning a thing or two, and having some fuzzy concepts being reinforced, so worthwhile exercise.
+Working through Chapter 2 of Git in Practice at the moment.  Pretty basic stuff but am learning a thing or two, and having 
+some fuzzy concepts being reinforced, so worthwhile exercise.
 
-
-== Chapter 2
-
-Adding a second chapter so I can follow along with tutorial's 'Add spacing between chapters' step.
