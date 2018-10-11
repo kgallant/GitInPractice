@@ -3,7 +3,7 @@ Kevin Gallant <kevin@gallantsystems.ca>
 
 Git in Practice sample project written in AsciiDoc.
 
-== Section 1
+== Chapter 1
 
 This is my first exposure to AsciiDoc so using this as an opportunity to learn a little about that platform as well. For more information, see https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc Quick Reference]
 
@@ -12,3 +12,7 @@ Saturday!  Although it's the weekend, not particularly looking forward to it.  D
 
 Working through Chapter 2 of Git in Practice at the moment.  Pretty basic stuff but am learning a thing or two, and having some fuzzy concepts being reinforced, so worthwhile exercise.
 
+
+== Chapter 2
+
+Adding a second chapter so I can follow along with tutorial's 'Add spacing between chapters' step.
