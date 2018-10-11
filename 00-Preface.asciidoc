@@ -3,4 +3,5 @@ Kevin Gallant <kevin@gallantsystems.ca>
 
 Git in Practice sample project written in AsciiDoc.
 
-
+== Section 1
+This is a sample document (or collection of documents, more accurately), used in the Git in Practice tutorial.
