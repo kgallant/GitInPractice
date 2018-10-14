@@ -6,3 +6,6 @@ Git in Practice sample project written in AsciiDoc.
 = Preface
 This document is used in the Git In Practice tutorial and will be modified as during exercises
 to demonstrate various Git functionality.
+
+== Section 1
+Adding this section as part of the 'Re-writing History' demo in the book.
