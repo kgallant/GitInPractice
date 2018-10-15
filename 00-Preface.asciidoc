@@ -9,3 +9,6 @@ to demonstrate various Git functionality.
 
 == Section 1
 Adding this section as part of the 'Re-writing History' demo in the book.
+
+== Section 2
+Add this section as part of the git pull --rebase demo.
