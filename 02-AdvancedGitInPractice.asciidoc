@@ -1,3 +1,6 @@
 == Chapter 2
 
 Adding a second chapter so I can follow along with tutorial's 'Add spacing between chapters' step.
+
+=== 15-Oct-2018
+Adding some text for the `git pull --rebase` demo.
